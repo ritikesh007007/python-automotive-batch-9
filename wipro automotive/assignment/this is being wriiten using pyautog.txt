@@ -1,0 +1,2 @@
+this is being wriiten using pyautogui and will be automatically save with name giganigagiganiga
+c
