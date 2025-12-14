@@ -1,1 +1,2 @@
+#comment
 print("Script file")
