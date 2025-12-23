@@ -1,0 +1,6 @@
+only number with even student id will be allowed to participate, 10 students (student_name,id)
+for ai olampiad , take id from student , even id are in quesue 1 and queue 2 for odd
+generalaisation --- buying a ticket for plane        (polymorphism)
+specilisation---buying a ticket for place with ac , business (encapsulation)
+    
+ 
