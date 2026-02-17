@@ -1,0 +1,6 @@
+what is separation of concerns?
+two type of appraoch to write program
+1. based upon business decision 
+2. based upon application
+
+we have to do both it and business decision based appraoch

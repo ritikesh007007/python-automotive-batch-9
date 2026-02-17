@@ -1,0 +1,7 @@
+xml contains data with different medical issues. as a python engineer we ned to write the code to fetch the data from the xml and print the medical issues alphabetically
+
+dev test prob
+
+step 1-- read a json file
+step 2 -- fetch the status code
+step 3--- identify the satatus code
